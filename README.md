@@ -7,7 +7,7 @@ I might build this out one day
 
 <br>
 <br>
-TODO:
+TODO:<br>
 Add gui<br>
 Add idol pictures<br>
 Add measurments <br>
