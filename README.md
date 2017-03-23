@@ -1,7 +1,7 @@
 # IdolManagerSimulator
 A stupidly basic Idol Manager game that is console based
 <br>
-The Only dependencies are random and python3x 
+The only dependencies are random and python3x 
 <br>
 I might build this out one day
 
