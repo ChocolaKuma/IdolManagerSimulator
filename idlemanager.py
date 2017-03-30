@@ -80,4 +80,5 @@ while keepGoing==True:
             bla.talent = trainingDay(bla.talent)
         if(bla.energy<0):
             print("You dont have enough energy")
+    print("\n\n\n\n\n\n\n\n\n\n")
 
